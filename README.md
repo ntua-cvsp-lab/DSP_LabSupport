@@ -1,7 +1,5 @@
 # DSP_LabSupport
 
-Here the students of the 2019-2020 DSP course can submit questions regarding the course to the teaching assistants.
-
 Εδώ οι φοιτητές του μαθήματος Ψηφιακής Επεξεργασίας Σήματος του Εθνικού Μετσόβιου Πολυτεχνείου μπορούν να υποβάλλουν ερωτήσεις στους εργαστηριακούς βοηθούς σχετικά με το υλικό του μαθήματος.
 
 Οι ερωτήσεις υποβάλλονται με την μορφή Issues.
